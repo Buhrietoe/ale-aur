@@ -10,7 +10,7 @@ license="GPL"
 arch=('i686' 'x86_64')
 depends=('perl-exiftool' 'imagemagick' 'dcraw')
 
-source=('https://dl.dropboxusercontent.com/u/51889968/ale-0.9.0.3.tar.gz')
+source=('https://src.fedoraproject.org/lookaside/pkgs/ale/ale-0.9.0.3.tar.gz/ace3d9874577085112adbf409f27b069/ale-0.9.0.3.tar.gz')
 
 md5sums=('ace3d9874577085112adbf409f27b069')
 
